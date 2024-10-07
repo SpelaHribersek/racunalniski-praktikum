@@ -1,1 +1,0 @@
-# racunalniski-praktikum
