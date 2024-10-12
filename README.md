@@ -1,2 +1,2 @@
 # racunalniski-praktikum
-Prvi commit.
+[racunalniski-praktikum](https://github.com/SpelaHribersek/racunalniski-praktikum/blob/main/README.md#racunalniski-praktikum)
